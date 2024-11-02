@@ -11,7 +11,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a prefinalist at **Silion Univeristy Bhubnaeswar studying Computer Science**
+- 👩‍🎓 I'm a prefinalist at **Silicon Univeristy, Bhubaneswar studying Computer Science**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
@@ -34,15 +34,15 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=PiyushKumar23-12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LavkushSolanki&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=LavkushSolanki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LavkushSolanki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LavkushSolank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-[![](https://visitcount.itsvg.in/api?id=SakshiGoyat&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LavkushSolank&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -52,10 +52,8 @@
   
 <h4> 📬 Reach me out </h4>
 <p align="left">
-<a href = "https://www.linkedin.com/in/sakshi-goyat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sakshi_goyat_14/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
-  <a href = "https://auth.geeksforgeeks.org/user/sakshigoyat14"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
+<a href = "https://www.linkedin.com/in/lavkush-solanki-3577a4254/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://leetcode.com/u/Lavkush1284/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
+<a href = "https://www.geeksforgeeks.org/user/lavkushsom7ro/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
 
 </p>
