@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+  <img width="400" src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Lavkush Solanki</h1>
